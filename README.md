@@ -32,6 +32,10 @@ Simulating and understanding financial data can be challenging — especially wh
 
 <img src="images/volume_barchart.png" width="600"/>
 
+### 🧾 Filtered Table (Dynamic via Slider)
+
+<img src="images/filtered_table.png" width="600"/>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -44,17 +48,15 @@ Simulating and understanding financial data can be challenging — especially wh
 ---
 
 ## 📂 File Structure
-
 ├── data/                     # Synthetic stock data
 ├── images/                   # Visualizations used in README
+│   ├── close_price_linechart.png
+│   ├── volume_barchart.png
+│   └── filtered_table.png
 ├── hello.py                  # Main app logic
 ├── preswald.toml             # Preswald config
 ├── pyproject.toml            # Project metadata
 ├── secrets.toml              # (Empty or sanitized!)
-
-
----
-
 ## 👤 Author
 
 **Priyank Tailor**  
